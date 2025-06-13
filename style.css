@@ -1,0 +1,55 @@
+h1
+{
+    color :green;
+    font-family: sans-serif;
+}
+
+h2 {
+    color : rgb(15, 95, 187);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+h3 {
+    color : rgb(200, 162, 49);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h4 {
+    color : rgb(179, 188, 6);
+    font-family :'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h5 {
+    color : rgb(226, 135, 9);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+h6 {
+    color : rgb(170, 44, 9);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+p
+{
+    color: rgb(17, 10, 224);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul {
+    list-style-type: circle;
+    list-style-image: url('images/pointer-icon.png');
+}
+
+ol {
+    list-style-type: upper-roman;
+}
+
+#Menu_Bar a{
+    font-family:  Helvetica, sans-serif;
+    text-decoration: none;
+    background-color: aquamarine;
+    padding: 5px;
+}
+
+#Menu_Bar a:hover{
+    background-color: aqua;
+    color: #ffffff;
+}
